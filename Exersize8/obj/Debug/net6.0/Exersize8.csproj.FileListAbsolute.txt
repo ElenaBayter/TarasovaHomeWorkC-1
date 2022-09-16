@@ -1,0 +1,15 @@
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\bin\Debug\net6.0\Exersize8.exe
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\bin\Debug\net6.0\Exersize8.deps.json
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\bin\Debug\net6.0\Exersize8.runtimeconfig.json
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\bin\Debug\net6.0\Exersize8.dll
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\bin\Debug\net6.0\Exersize8.pdb
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\Exersize8.csproj.AssemblyReference.cache
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\Exersize8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\Exersize8.AssemblyInfoInputs.cache
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\Exersize8.AssemblyInfo.cs
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\Exersize8.csproj.CoreCompileInputs.cache
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\Exersize8.dll
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\refint\Exersize8.dll
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\Exersize8.pdb
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\Exersize8.genruntimeconfig.cache
+C:\Users\Innovations Solution\Desktop\HW_C#\Exersize8\obj\Debug\net6.0\ref\Exersize8.dll
